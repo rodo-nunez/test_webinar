@@ -19,6 +19,7 @@ init
 status
 add
 commit
+clone
 fetch
 merge
 pull
